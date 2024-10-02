@@ -2,8 +2,7 @@
 
 Welcome to the [Legends of the Jedi (LotJ)](https://legendsofthejedi.com/) community GitHub! This organization hosts various scripts, clients, plugins, and tools designed to improve your experience in **Legends of the Jedi**, a popular MUD (Multi-User Dungeon). We encourage you to explore, contribute, and use these resources to enhance your gameplay.
 
-Maintained by [Skiia](https://github.com/sceboucher). For support or to contribute, join the [LotJ Discord Scripting Channel](https://discord.gg/tfpAJxsRXB).
-
+Org maintained by [Skiia](https://github.com/sceboucher) and numerous contributors. For support or to contribute, join the [LotJ Discord Scripting Channel](https://discord.gg/tfpAJxsRXB).
 
 ## Clients
 
