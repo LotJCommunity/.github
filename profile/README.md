@@ -11,7 +11,7 @@ The official LotJ Organization and its repositories can be [found here.](https:/
 ### MUSHClient / LotJClient
 MUSHClient is a popular MUD client, and we have a wrapped-up version known as _LotJClient_, bundled with pre-set configuration and a set of core plugins.
 
-[LotJClient Repository](https://github.com/Johnson336/LotjClient)
+[LotJClient Repository](https://github.com/Xavious/LotjClient)
 
 ### Mudlet
 Mudlet is a popular and more modern (but less enhanced via scripting) MUD client.
