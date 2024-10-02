@@ -4,14 +4,21 @@ Welcome to the [Legends of the Jedi (LotJ)](https://legendsofthejedi.com/) commu
 
 Org maintained by [Skiia](https://github.com/sceboucher) and numerous contributors. For support or to contribute, join the [LotJ Discord Scripting Channel](https://discord.gg/tfpAJxsRXB).
 
+The official LotJ Organization and its repositories can be [found here.](https://github.com/LotJ)
+
 ## Clients
 
-### [MUSHClient / LotJClient]
-This repository contains customized scripts for the MUSHClient, specifically optimized for Legends of the Jedi. It includes a variety of plugins to automate tasks and improve your gameplay experience.
+### MUSHClient / LotJClient
+MUSHClient is a popular MUD client, and we have a wrapped-up version known as _LotJClient_, bundled with pre-set configuration and a set of core plugins.
 
-### [Mudlet](https://github.com/LotJCommunity/LOTJ-Mudlet-Scripts)
-Scripts tailored for Mudlet users, offering automation and customization to streamline your interaction with LotJ.
+[LotJClient Repository](https://github.com/Johnson336/LotjClient)
 
+### Mudlet
+Mudlet is a popular and more modern (but less enhanced via scripting) MUD client.
+
+There is a package for LotJ including a custom UI here:
+
+[Mudlet UI Package](https://github.com/LotJ/lotj-mudlet-ui)
 
 
 ## Plugins & Scripts
@@ -40,6 +47,14 @@ Contains tools and scripts designed to improve accessibility for LotJ players wi
 ### Color Tools
 - **[Xerakon Colorcheck](https://xerakon.com/lotj/colorcheck.html)**: Test your in-game text color output.
 - **[Xerakon 256 Color Viewer](https://xerakon.com/lotj/view256color.html)**: Browse the full range of 256 colors available in LotJ.
+
+### Connected Tools
+- [**Galaxy Map**](https://www.legendsofthejedi.com/galaxy-map): A simple galaxy map viewer on an X-Y grid.
+- [**Help Files**](https://www.legendsofthejedi.com/help): A web viewer for all help files in the game.
+
+### Developer Tools
+- [**VSCode LotJ Color Extension**](https://github.com/mnemosynium/lotjcolor): A live preview of color-coded text
+- [**LotJ Lua API Scraper**](https://github.com/Johnson336/LotJLuaAPI-Scraper): Scrapes the LotJ Lua API to create Lua function definitions for your Lua scripting environment
 
 ---
 
