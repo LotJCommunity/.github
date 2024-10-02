@@ -4,7 +4,6 @@ Welcome to the [Legends of the Jedi (LotJ)](https://legendsofthejedi.com/) commu
 
 Maintained by [Skiia](https://github.com/sceboucher). For support or to contribute, join the [LotJ Discord Scripting Channel](https://discord.gg/tfpAJxsRXB).
 
----
 
 ## Clients
 
@@ -14,7 +13,7 @@ This repository contains customized scripts for the MUSHClient, specifically opt
 ### [Mudlet](https://github.com/LotJCommunity/LOTJ-Mudlet-Scripts)
 Scripts tailored for Mudlet users, offering automation and customization to streamline your interaction with LotJ.
 
----
+
 
 ## Plugins & Scripts
 
@@ -25,14 +24,14 @@ Scripts tailored for Mudlet users, offering automation and customization to stre
 ### Mudlet Plugins
 All Mudlet plugins are located in the [LOTJ-Mudlet-Scripts](https://github.com/LotJCommunity/LOTJ-Mudlet-Scripts) repository.
 
----
+
 
 ## Accessibility Tools
 
 ### [LotJ Accessibility](https://github.com/LotJCommunity/LotJ-Accessibility)
 Contains tools and scripts designed to improve accessibility for LotJ players with disabilities.
 
----
+
 
 ## Third-party Tools
 
